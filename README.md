@@ -8,8 +8,8 @@ The app will randomize the dice faces if any dice is clicked/ pressed.
 
 ### Before
 
-![before](images/screenshots/Screenshot_before_resized.PNG)
+![before](images/screenshots/Screenshot_before_resized.png)
 
 ### After  
 
-![after](images/screenshots/Screenshot_after_resized.PNG)  
+![after](images/screenshots/Screenshot_after_resized.png)  
